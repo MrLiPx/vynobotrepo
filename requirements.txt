@@ -2,30 +2,30 @@ discord.py~=2.3.2
 python-dotenv
 aiohttp
 requests
-pymongo~=4.0 # For MongoDB integration (dummy)
-psycopg2-binary # For PostgreSQL integration (dummy)
-SQLAlchemy # ORM for databases (dummy)
-Pillow # Image manipulation (dummy)
-google-generativeai # Gemini API (dummy)
-cryptography # Security features (dummy)
-pytz # Timezone handling (dummy)
-beautifulsoup4 # Web scraping (dummy)
-humanfriendly # Formatting (dummy)
-pydantic # Config validation (dummy)
-celery # Distributed tasks (dummy)
-redis # Caching/Queues (dummy)
-scikit-learn # AI/ML (dummy)
-pandas # Data processing (dummy)
-numpy # Numerical operations (dummy)
-matplotlib # Data visualization (dummy)
-websocket-client # Real-time integrations (dummy)
-Flask # Internal web dashboard/APIs (dummy)
-Flask-RESTful # RESTful APIs (dummy)
-Flask-SocketIO # WebSockets for Flask (dummy)
-websockets # Custom WebSocket server/client (dummy)
-colorama # Terminal coloring (dummy)
-asyncpg # Async PostgreSQL (dummy)
-aiomysql # Async MySQL (dummy)
-discord-ext-ipc # Inter-process communication (dummy)
-aiofiles # Async file operations (dummy)
-APScheduler # Advanced scheduling (dummy)
+pymongo~=4.0 # For MongoDB integration 
+psycopg2-binary # For PostgreSQL integration 
+SQLAlchemy # ORM for databases 
+Pillow # Image manipulation 
+google-generativeai # Gemini API 
+cryptography # Security features 
+pytz # Timezone handling 
+beautifulsoup4 # Web scraping 
+humanfriendly # Formatting 
+pydantic # Config validation 
+celery # Distributed tasks 
+redis # Caching/Queues 
+scikit-learn # AI/ML 
+pandas # Data processing 
+numpy # Numerical operations 
+matplotlib # Data visualization 
+websocket-client # Real-time integrations 
+Flask # Internal web dashboard/APIs 
+Flask-RESTful # RESTful APIs 
+Flask-SocketIO # WebSockets for Flask 
+websockets # Custom WebSocket server/client 
+colorama # Terminal coloring
+asyncpg # Async PostgreSQL 
+aiomysql # Async MySQL 
+discord-ext-ipc # Inter-process communication 
+aiofiles # Async file operations 
+APScheduler # Advanced scheduling
