@@ -1,0 +1,1 @@
+# Python package for handler_odizo_4_components

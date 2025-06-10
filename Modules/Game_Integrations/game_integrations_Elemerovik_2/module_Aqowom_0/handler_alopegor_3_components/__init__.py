@@ -1,0 +1,1 @@
+# Python package for handler_alopegor_3_components

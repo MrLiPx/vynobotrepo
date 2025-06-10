@@ -1,0 +1,1 @@
+# Python package for handler_ezegope_12_components

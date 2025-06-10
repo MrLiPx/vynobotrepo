@@ -1,0 +1,1 @@
+# Python package for handler_afete_5_components

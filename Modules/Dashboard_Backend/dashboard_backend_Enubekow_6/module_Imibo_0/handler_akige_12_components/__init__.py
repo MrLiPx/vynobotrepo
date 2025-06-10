@@ -1,0 +1,1 @@
+# Python package for handler_akige_12_components
